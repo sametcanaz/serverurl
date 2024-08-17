@@ -1,10 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:2324
+#EXT-X-MEDIA-SEQUENCE:2325
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-https://maxproizliyorum.serv00.net/corsmaxpro.php/http://66bf9b4bb5239.wgxhanoipwc0qzp.xyz:8080/hls/b7157bbeb0e080be43b738ee8d4225f7/342457_2324.ts?maxprotv_calaninaminakorum.sc
 #EXTINF:10.000000,
 https://maxproizliyorum.serv00.net/corsmaxpro.php/http://66bf9b4bb5239.wgxhanoipwc0qzp.xyz:8080/hls/439990b0ecc5b8806b54c815a5fd6866/342457_2325.ts?maxprotv_calaninaminakorum.sc
 #EXTINF:10.000000,
@@ -15,3 +13,5 @@ https://maxproizliyorum.serv00.net/corsmaxpro.php/http://66bf9b4bb5239.wgxhanoip
 https://maxproizliyorum.serv00.net/corsmaxpro.php/http://66bf9b4bb5239.wgxhanoipwc0qzp.xyz:8080/hls/87b8babf0d4fa70556933487c8f1b725/342457_2328.ts?maxprotv_calaninaminakorum.sc
 #EXTINF:10.000000,
 https://maxproizliyorum.serv00.net/corsmaxpro.php/http://66bf9b4bb5239.wgxhanoipwc0qzp.xyz:8080/hls/0001c245e5094fb5dd7e5d0f873cbd71/342457_2329.ts?maxprotv_calaninaminakorum.sc
+#EXTINF:10.000000,
+https://maxproizliyorum.serv00.net/corsmaxpro.php/http://66bf9b4bb5239.wgxhanoipwc0qzp.xyz:8080/hls/5743c13073122ba25deb69aad632c22f/342457_2330.ts?maxprotv_calaninaminakorum.sc
